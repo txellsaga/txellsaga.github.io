@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/css/style.css">
+
 # 👋 Hi, I'm Meritxell
 
 Welcome to my personal portfolio.  
