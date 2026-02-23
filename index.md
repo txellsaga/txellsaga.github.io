@@ -15,7 +15,6 @@ This site is currently under construction while I prepare a complete showcase of
 I’m building everything privately for now, and will publish the full portfolio once it’s polished and ready.
 
 <!--
-.---
 
 ## 🚀 What’s coming soon
 
@@ -44,8 +43,6 @@ I’m a full-stack technical engineer with a hybrid background in:
 - automation and cloud  
 
 I enjoy building intelligent systems that sit at the intersection of hardware, software, and data.
-
----
 -->
 
 ## 📫 Contact
