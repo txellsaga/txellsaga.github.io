@@ -13,6 +13,7 @@ This site is currently under construction while I prepare a complete showcase of
 - cloud and big data (AWS, Spark, NoSQL)  
 
 I’m building everything privately for now, and will publish the full portfolio once it’s polished and ready.
+
 {% comment %}
 ---
 
@@ -46,6 +47,7 @@ I enjoy building intelligent systems that sit at the intersection of hardware, s
 
 ---
 {% endcomment %}
+
 ## 📫 Contact
 
 - **LinkedIn:** [linkedin.com/in/txellsaga](https://www.linkedin.com/in/txellsaga)
